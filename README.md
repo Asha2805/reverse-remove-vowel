@@ -1,1 +1,0 @@
-# reverse-remove-vowel
